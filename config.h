@@ -150,6 +150,11 @@ unsigned int defaultbg = 257;
 unsigned int defaultcs = 256;
 static unsigned int defaultrcs = 257;
 
+//boxdraw
+const int boxdraw = 1;
+const int boxdraw_bold = 1;
+const int boxdraw_braille = 1;
+
 
 /*
  * Default shape of cursor
