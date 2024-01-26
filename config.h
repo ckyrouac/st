@@ -112,6 +112,10 @@ static const char *colorname[] = {
 	[13] = "#e55ce5", //bright magenta
 	[14] = "#33bfbf", //bright cyan
 	[15] = "#ffffff", //bright white
+	[213] = "#B189F5",
+	[214] = "#CF8E6D",
+	[215] = "#CC7832",
+	[216] = "#D5B778",
 
 	[255] = 0,
 	[256] = "#BCBEC4", //foreground
